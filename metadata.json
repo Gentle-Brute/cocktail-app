@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Multi-Agent Creative Suite",
+  "description": "An advanced multi-agent chat interface where users can upload a moodboard for aesthetic analysis, receive generated image prompts, and see AI-created images. The application features distinct agents for analysis (Aura), prompt creation (Muse), and image generation (Sora), all interacting within a seamless, shared context.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
